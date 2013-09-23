@@ -1,2 +1,14 @@
-#NOTES FOR CLUB LEADERS
-##(Felix & Herbert)####Introduction:We are going to make a game of catch with Felix the cat and Herbert the mouse. You control Herbert with the mouse and try to avoid getting caught by Felix. The longer you avoid him the more points you score, but don’t get caught because your score will go down! This is a simple project to introduce the basics of Scratch.#### SkillsThis project covers:1. Changing costumes and appearance2. Keeping and setting the score3. Broadcast messages#### ResourcesThis project uses resources found in the Scratch Backgrounds and Costumes folders#### Scratch Cards requiredFollow the mouse#### Basic exercisesStep 1: Felix follows the mouse pointerStep 2: Felix chases HerbertStep 3: Felix says when he’s caught HerbertStep 4: Herbert turns into a ghost when he’s caught Step 5: Keep score
+#ملاحظات لقائدي النادي
+‫##(‬فيليكس وهيربيرت)‫####‬مقدّمة:
+سنقوم بعمل لعبة صيد بفيليكس القطّ وهيربيرت الفأر. يمكنك التحكم بهيربيرت بفأرة الكمبيوتر للهروب من فيليكس. وكلما طال الوقت ولم يتم الامساك بهيربيرت تزداد نقاطك لكن إذا تم الامساك بك ستقلّ نقاطك. وهذا مشروع بسيط لتقديم أساسيات سكراتش.‫####‬ مهارات
+يغطّي هذا المشروع:
+1. تغيير أشكال الكائنات والملابس
+2. حفظ وإعادة إعداد النقاط في اللعبة
+3. إذاعة رسائل‫####‬ موارد
+يستخدم هذا المشروع الموارد الموجودة في مجلدات خلفيات سكراتش والملابس‫####‬ بطاقات سكراتش المطلوبة
+اتّبع فأرة الكمبيوتر
+#‫###‬ تدريبات أساسيّة
+الخطوة 1: فيليكس يتّبع فأرة الكمبيوتر
+الخطوة 2: فيليكس يطارد هيربيرت
+الخطوة 3: فيليكس يقول أنه أمسك هيربيرت
+الخطوة 4: هيربيرت يتحول إلى شبح عندما يتم الامساك به الخطوة 5: حفظ النقاط
