@@ -1,36 +1,39 @@
-Level 3
+المرحلة ٣
 
-#Create Your Own Game
+#اصنع لعبتك الخاصة
 
-__Introduction:__
-In this project you will design and create a game for you and your friends
-to play! You will need to think about its different parts and plan your ideas before you begin making it on Scratch. You can use ideas from past projects and Scratch cards to help you.
+__المقدمة__:
 
-##STEP 1: Planning your game
+في هذا المشروع ستقوم بصناعة و تصميم لعبتك الخاصة لك و لزملائك! ستحتاج للتفكير في الأجزاء المختلفة لهذه اللعبة و ترتيب أفكارك قبل البدأ في صنع لعبتك من البداية
+يمكنك الإستفادة من مشروعات سابقة و استخدامها في لعبتك الحالية
 
-What is the aim of the game? (For example, the aim of Felix & Herbert was to avoid getting caught by the cat.) It might help for you to think of as many ideas as you can then choose the best. You could brainstorm with a friend or work on your own. Write your ideas below and choose the best one.
+##الخطوة الأولي: تخطيط اللعبة
 
-##STEP 2: Design your characters
+ما هو هدف لعبتك ؟ "فعلى سبيل المثال في لعبة فيليكس و هربرت كان هدفك هو تفادي أن يقوم القط بإمساكك"
+كما أن التفكير في العديد من الأفكار و من ثم حصرها في عدد أقل قد يساعدك كثيراً كما أنه في الإمكان التفكير في هذه الأفكار مع أحد الأصدقاء أو حتى التفكير في فكرتك الخاصة
+قم بتدوين أفكارك و اختر الأفضل من بينها
 
-What characters will be in your game? Draw them in the box below. If they will need different costumes make sure you draw these too. Ask for more paper if you need it.
+##الخطوة الثانية: صمِّم شخصيتك
 
-##STEP 3: Design your stage
+ما هي الشخصيات التي تضضمنها لعبتك ؟ ارسمها في الصندوق الموجود بالأسفل
+في حالة إحتياج شخصيتك لعدة ملابس كن متأكداً من أن ترسمها جميعاً و لا تتردد في طلب المزيد من الورق
 
-What will the stage look like? Draw it below. Remember to think about how
-the characters might interact with it.
+##الخطوة الثالثة: صِّمم مسرحك
 
-##STEP 4: How does your game work?
+كيف سيكون مسرحك ؟ ارسمه بالأسفلتذكر كيف ستتفاعل الشخصية مع مسرحك
 
-How will points be scored? How do you win the game? How many players are there? Will there be a timer?
-How will the game be controlled? E.g. Will you click a mouse button or press a key? Do you need sound effects? If so, what are they?
-Answer these questions in the space below:
+##الخطوة الرابعة: كيف تعمل لعبتك؟
 
-##STEP 5: Building your game
+كيفية الحصول على النقاط ؟كيف تفوز باللعبة ؟عدد اللاعبين ؟ سيكون هناك وقت محدد للعبة ؟
+كيفية التحكم في اللعبة ؟ على سبيل المثال "هل ستقوم باستعمال الفأرة أم لوحة المفاتيح ؟ هل ستحتاج لبعض المؤثرات الصوتية ؟ في هذه الحالة هل فكرت فيهم ؟"
+أجب عن هذه الأسئلة في الصندوق بالأسفل 
 
-Now it’s time to start writing the scripts that will make your game work.
+##الخطوة الخامسة: ابنِ لعبتك
 
-Things to remember:
+الآن حان الوقت لكتابة النص الذي سيبعث بلعبتك إلى الحياة
 
-1. You can always refer back to the Scratch cards and the games you have already built.
-2. Remember to test your project and save your game regularly. 
-3. Be creative!
+أشياء لتتذكرها:
+
+1. يمكنك دائماً الرجوع لبدايات تصميمك أو أشياء صممتها من قبل
+2. تذكر أن أن تختبر مشروعك و تقوم بتسجيله من وقت لآخر بشكل منتظم
+3. كن مبدعاً
